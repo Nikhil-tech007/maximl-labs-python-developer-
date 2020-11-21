@@ -1,5 +1,9 @@
 # maximl-labs-python-developer-
-code for finding the length of smallest substring with maximum number of distinct characters
+Code for finding the length of smallest substring with maximum number of distinct characters:-
+Input: abcda
+Output: 4
+
+
 def maxdist(s):
     k=len(s)
     if k==0 or k==1:
